@@ -1,3 +1,6 @@
+Tela de login com angular 7/8.
+Testes usando authGuard, Validators, routers, css e services.
+
 # AngularLogin
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.3.
